@@ -10,11 +10,6 @@ RippleTone is a music app where users can listen to music, save music to their a
 
 Built on the `ReactJs` 
 
-### Prerequisites
-
-- Node.js
-- npm or yarn
-
 ### Installing
 
 1. Clone the repository:
