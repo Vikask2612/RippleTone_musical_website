@@ -8,7 +8,7 @@ RippleTone is a music app where users can listen to music, save music to their a
 
 ## Technologies Used
 
-Built on the MERN Stack with `NodeJs` `ReactJs` and `MongoDB` for Database Management and storage.
+Built on the `ReactJs` 
 
 ### Prerequisites
 
@@ -20,7 +20,7 @@ Built on the MERN Stack with `NodeJs` `ReactJs` and `MongoDB` for Database Manag
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Bhushan1137/RippleTone-musical-website.git
+   git clone (https://github.com/Vikask2612/RippleTone_musical_website)
    ```
 
 2. Navigate to the project directory:
