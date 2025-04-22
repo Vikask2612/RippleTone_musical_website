@@ -79,7 +79,7 @@ const DesktopNav = () => {
 				<Flex color="accent.main" align="center" gap={4}>
 					<BiMusic color="inherit" size={30} />
 					<Heading as="h1" fontWeight="semibold" fontSize="2xl">
-						RippleTone
+						RippleToneeeeee
 					</Heading>
 				</Flex>
 				<NavContent />
