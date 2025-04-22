@@ -47,7 +47,7 @@ const MobileNav = () => {
 
 						<Heading as="h1" fontWeight="semibold" fontSize="2xl">
 							RippleTone
-						</Heading>
+						</Heading>`
 					</Flex>
 				</Link>
 				<Button variant="unstyled" onClick={toggleNav}>
